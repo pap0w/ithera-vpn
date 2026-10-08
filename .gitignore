@@ -1,0 +1,17 @@
+# Binaries and build artifacts
+build/
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary test logs
+/tmp/
+test/integration/logs/
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
